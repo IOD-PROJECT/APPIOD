@@ -1,0 +1,3 @@
+rootProject.name = "appIOD"
+include ':app'
+include ':mpBuilder'
